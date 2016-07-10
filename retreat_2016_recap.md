@@ -5,7 +5,7 @@
   - 1 will be assigned to Zip.
   - 3 will have the Wifis.
   - 3 will go to Bee prior to burn weekend.
-- Julija is a slut. However, if we have the budget and it helps free up Yando and I to be available for troubleshooting, I say we put her in an SL slot.
+- Julija is a slut. However, if we have the budget and it helps free up Yando and me to be available for troubleshooting, I say we put her in an SL slot.
 
 #### Action to take
 - [ ] Email Julija with her status. Who should do this?
