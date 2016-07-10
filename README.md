@@ -1,5 +1,4 @@
 # Perimeter Retreat 2016 Recap
-
 #### Updates
 + Our ops will start Sunday at 0600.
 + Trucks: 
@@ -12,7 +11,7 @@
 #### Action to take:
 + [ ] Email Julija with her status. Who should do this?
 + [ ] Slack vs. Email list: Slack is for developing plans. Email list is for announcing them. 
-  +  [ ]I will email everyone individually with this clarification.
+  +  [ ] I will email everyone individually with this clarification.
 
 + [ ] Active shooter protocol: 
   + [ ] I will ping JoJo for the resources she offered and discuss with you two.
